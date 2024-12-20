@@ -3,6 +3,7 @@ import React from 'react'
 import Image from 'next/image'
 import box1img from '../../../../public/image 7 (1).png'
 import img2 from '../../../../public/image 2.png'
+import Link from 'next/link'
 
 
 
@@ -65,7 +66,7 @@ const Hero = () => {
   </div>
   <div className=' pl-4 pt-5 -bg-black  '>
     <button className='bg-[#54A6FF] px-5 py-2 tracking-wide text-[20px] flex  justify-center items-center rounded-md'>
-    Rental Car
+   <a href="/PaymentMethod">Rental Car </a>
     </button>
   </div>
   {/* car img */}

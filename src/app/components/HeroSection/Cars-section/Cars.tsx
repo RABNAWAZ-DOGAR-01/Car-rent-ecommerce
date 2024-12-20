@@ -67,7 +67,7 @@ const Cars = (props:CardspropsType) => {
  <div> <h1 className='font-[700] text-[25px]'>{price}<span className='text-[#90A3BF] text-[18px]'> day</span></h1></div>
  <div>
  <button className='px-6 py-2.5 bg-[#3563E9] text-white font-[600] rounded-md  ' >
-<a href="/Carsdetail"> Now Rent  </a></button>
+ <a href="/PaymentMethod"> Now Rent  </a></button>
  </div>
   </div>
   <div  className='-bg-slate-700 w-full h-[37px] flex items-center pl-3 font-[700]'><span><del className='text-[#90A3BF]'>{discount}</del></span></div>
