@@ -117,12 +117,10 @@ xxs:justify-between px-5 ml:gap-5 xxs:gap-20 pt-9 md:items-baseline '>
       <h1 className='text-[22px] font-[600] ml:pb-2 xxs:pb-4  '>Locations</h1>
       <select name="pets" id="pet-select" className='w-[100%] h-[50px] px-2 bg-[#F6F7F9]'>
   <option value="">--Please choose an option--</option>
-  <option value="dog">Dog</option>
-  <option value="cat">Cat</option>
-  <option value="hamster">Hamster</option>
-  <option value="parrot">Parrot</option>
-  <option value="spider">Spider</option>
-  <option value="goldfish">Goldfish</option>
+ <option value="dog">karachi</option>
+  <option value="cat">Lahore</option>
+  <option value="hamster">Peshawer</option>
+  <option value="parrot">Punjab</option>
 </select>
     </div>
 
@@ -194,12 +192,10 @@ xxs:justify-between px-5 ml:gap-5 xxs:gap-20 pt-9 md:items-baseline '>
   <h1 className='text-[22px] font-[600] ml:pb-2 xxs:pb-4  '>Locations</h1>
   <select name="pets" id="pet-select" className='w-[100%] h-[50px] px-2 bg-[#F6F7F9]'>
 <option value="">--Please choose an option--</option>
-<option value="dog">Dog</option>
-<option value="cat">Cat</option>
-<option value="hamster">Hamster</option>
-<option value="parrot">Parrot</option>
-<option value="spider">Spider</option>
-<option value="goldfish">Goldfish</option>
+ <option value="dog">karachi</option>
+  <option value="cat">Lahore</option>
+  <option value="hamster">Peshawer</option>
+  <option value="parrot">Punjab</option>
 </select>
 </div>
 
