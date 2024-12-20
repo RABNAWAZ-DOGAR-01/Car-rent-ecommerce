@@ -14,10 +14,10 @@ const data1  =  [
   {
     
     id: nanoid(1),
-    heading : "car (15).png",
+    heading : "Koenigsegg",
     para1 : "Sport",
    img : "/herat.jpg",
-   car : '/car (14).png',
+   car : '/car (15).png',
    petrollheading  :  "90L",
    shellheading : "Manual",
    people : "2 People",
