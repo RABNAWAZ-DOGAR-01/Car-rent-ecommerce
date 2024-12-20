@@ -14,7 +14,7 @@ const data1  =  [
   {
     
     id: nanoid(1),
-    heading : "/car (15).png",
+    heading : "car (15).png",
     para1 : "Sport",
    img : "/herat.jpg",
    car : '/car (14).png',
